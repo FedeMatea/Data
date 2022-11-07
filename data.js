@@ -37,7 +37,7 @@
     group: 'B',
     subjects: [ 'Matemáticas', 'Geografía' ]
   },
-  Student {
+  {
     name: 'Paula',
     age: 17,
     grade: 4,
